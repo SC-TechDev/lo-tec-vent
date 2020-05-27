@@ -1,1 +1,1 @@
-# LoTec Vent
+# Low Tech Ventilator
