@@ -1,1 +1,1 @@
-# lo-tec-vent
+# LoTec Vent
