@@ -22,7 +22,6 @@ The paddles sweep through a sinusoidal arc as the motor turns.  The range of mot
 
 An automotive windshield wiper motor was used to drive the oscillation.  The prototype used a replacement motor for a 1983 Jeep CJ7.  PN #REPJ361101.  The motor speed was controlled with a pulse width modulated DC speed control module PN CCM5D.  Other devices could be used to drive the ventilator.  The prototype was noticeably underpowered at slow speeds with this motor and controller so additional work is required to select the appropriate motor, controller and power source.
 
-
 ## Basic Function - User Controls
 
 Two levers are provided for the clinician to adjust the TV and I/E ratio.  These levers are part of a 5-bar mechanism that sets the appropriate position for point A.  This 5-bar mechanism consists of the two user operated levers, one for TV (1) and one for I/E ratio (2), each pivotally connected to the ground plate (3), and two links (4,5) that determine the position of point A.
@@ -59,4 +58,3 @@ Thanks to the following:
 Gordy Peterson, Nicholas Krupansky, and Nick Deevers – all Steelcase Engineers
 
 Future Contact:  Kurt Heidmann  kheidman@steelcase.com
-
