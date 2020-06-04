@@ -40,6 +40,12 @@ A CAD model of the prototype ventilator is provided in this post to clearly show
 
 The minimum closing angle of the paddles determines how far the Ambu-Bag is compressed, and the amount of air delivered to the patient (Tidal Volume). The maximum opening angle affects the inhalation / exhalation time ratio (I/E ratio).  The user controls previously described determine the range of motion of the paddles.  The four pictures below show the user controls at the extremes of adjustment and the associated performance limits of the ventilator.  (Notice the position of point A in each of the pictures.)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tidal Volume (TV) between 200ml and 800ml
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I/E ratio between 1 and 3
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breaths Per Minute (BPM) controlled by the motor speed (rpm)
+
 ![Ventilator Performance](Pictures/ventilator%20performance.png)
 
 ## Credits
