@@ -10,10 +10,13 @@ The specific goal of this design is to simplify manufacturing and reduce costs a
 
 The following information describes the operation of the ventilator.  A prototype was built to prove the concept of the adjustable mechanical linkage.  This design is not ready for production or implementation.  It does, however, prove that the linkages delivered the desired performance requirements and that the user controls can be simple and intuitive.  Further refinement of the design is required to improve durability, manufacturability, and reliability.
 
+![LoTec Vent](Pictures/LoTec%20Vent%20CON2%20Perspective.jpg)
 
 ## Basic Function
 
 Two paddles are used to compress the bag, these paddles are geared together to act in concert as was the MIT E-Vent.  A six-bar mechanism was developed to drive the paddle movement.  The first bar is the rotating lever mounted to the motor.  The second bar is the motor push rod.  The third bar is the paddle push rod.  The fourth bar is the one of the two paddle supports.  The fifth bar is a control arm connected to the motor push rod / paddle push rod joint on one end and fixed to ground on the other end (point A – more about how this pivot point is fixed in place later).  The sixth bar is the ground plate.
+
+![Oscillating Mechanism](Pictures/Basic%20Function%20-%20Oscillating%20Mechanism.png)
 
 The paddles sweep through a sinusoidal arc as the motor turns.  The range of motion, maximum opening angle, and minimum closing angle of the paddles are all controlled by the position of the point A of the control arm.
 
@@ -23,6 +26,8 @@ An automotive windshield wiper motor was used to drive the oscillation.  The pro
 ## Basic Function - User Controls
 
 Two levers are provided for the clinician to adjust the TV and I/E ratio.  These levers are part of a 5-bar mechanism that sets the appropriate position for point A.  This 5-bar mechanism consists of the two user operated levers, one for TV (1) and one for I/E ratio (2), each pivotally connected to the ground plate (3), and two links (4,5) that determine the position of point A.
+
+![User Controls](Pictures/Basic%20Function%20-%20User%20Controls.png)
 
 The control levers are moved to the desired position by the clinician and locked into place relative to the ground plate.  Indicators on the ground plate will display the selected TV or I/E ratio.  The control levers can be adjusted while the ventilator is operating and the change in function observed.
 The two control levers operate independently.  As the TV is adjusted, the I/E ratio will remain unchanged.  As the I/E ratio is adjusted, the TV will remain unchanged.
@@ -34,6 +39,8 @@ A CAD model of the prototype ventilator is provided in this post to clearly show
 ## Ventilator Performance
 
 The minimum closing angle of the paddles determines how far the Ambu-Bag is compressed, and the amount of air delivered to the patient (Tidal Volume). The maximum opening angle affects the inhalation / exhalation time ratio (I/E ratio).  The user controls previously described determine the range of motion of the paddles.  The four pictures below show the user controls at the extremes of adjustment and the associated performance limits of the ventilator.  (Notice the position of point A in each of the pictures.)
+
+![Ventilator Performance](Pictures/ventilator%20performance.png)
 
 ## Credits
 
