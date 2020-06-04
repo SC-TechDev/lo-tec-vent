@@ -1,6 +1,6 @@
 # LoTec  Emergency Ventilator Concept - June 6, 2020
 
-This ventilator concept is builds on the mechanically actuated Bag-Valve Mask (BVM) designs originally developed at MIT as the [MIT Emergency Ventilator E-Vent](https://e-vent.mit.edu)
+This ventilator concept builds on the mechanically actuated Bag-Valve Mask (BVM) designs originally developed at MIT as the [MIT Emergency Ventilator E-Vent](https://e-vent.mit.edu)
 
 ## Design Goal
 
