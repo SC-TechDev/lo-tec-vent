@@ -60,3 +60,13 @@ Thanks to the following:
 Gordy Peterson, Nicholas Krupansky, and Nick Deevers – all Steelcase Engineers
 
 Future Contact: Kurt Heidmann kheidman@steelcase.com
+
+### License
+
+MIT modified license:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this ventilator design and associated documentation files (the "Ventilator"), to deal in the Ventilator without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Ventilator, and to permit persons to whom the Ventilator is furnished to do so, subject to the following conditions:
+
+THE VENTILATOR IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE VENTILATOR OR THE USE OR OTHER DEALINGS IN THE VENTILATOR.
+
+[Full License](License.md)
