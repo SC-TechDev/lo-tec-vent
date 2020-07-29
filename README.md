@@ -61,7 +61,7 @@ Gordy Peterson, Nicholas Krupansky, and Nick Deevers – all Steelcase Engineers
 
 Future Contact: Kurt Heidmann kheidman@steelcase.com
 
-### License
+## License
 
 MIT modified license:
 
